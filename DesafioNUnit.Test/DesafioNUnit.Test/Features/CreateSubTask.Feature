@@ -7,7 +7,7 @@ Funcionalidade: CreateSubTask
 Contexto:
 	Dado que o usuário esteja autenticado no sistema
 		| Email                   | password      |
-		| guilhermebm27@gmail.com | Bm19283746@13 |
+		| joaoteste@gmail.com     | teste123      |    
 
 Cenário: 1) Validar existencia do botão Manage Subtasks na tela de tarefas
 	Quando acessar a tela de minhas tarefas
