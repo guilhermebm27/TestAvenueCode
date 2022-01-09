@@ -12,7 +12,7 @@ Contexto:
 Cenário: 1) Usuário autenticado com sucesso
 	Quando informar os dados para logar
 		| Email                   | Password      |
-		| guilhermebm27@gmail.com | Bm19283746@13 |
+		| joaoteste@gmail.com     | teste123      |
 	E clicar no botão Sign In
 	Então usuário é direncionado para a tela inicial e a seguinte mensagem será exibida "Signed in successfully."
 
