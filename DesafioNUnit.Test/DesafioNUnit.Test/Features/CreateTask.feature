@@ -7,7 +7,7 @@ Funcionalidade: CreateTask
 Contexto:
 	Dado que o usuário esta autenticado no sistema
 		| Email                   | password      |
-		| guilhermebm27@gmail.com | Bm19283746@13 |
+		| joaoteste@gmail.com     | teste123      |
 
 Cenário: 1) Validar existencia do link Minhas tarefas na barra de navegação
 	Quando acessar a tela inicial
